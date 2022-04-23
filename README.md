@@ -8,7 +8,7 @@ Howdy, I'm Alan Biju And a creative fullstack developer. From Shimoga, based in 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [alanbijiu238@gmail.com](mailto:alanbijiu238@gmail.com)
-* ⚡  And I Am Batman 🦇🦇
+* ⚡  And I Am Batman 🦇
 
 ### Skills
 
